@@ -1,5 +1,7 @@
 # [HTML5 Boilerplate](http://html5boilerplate.com)
 
+> NOTE : Change in this fork is the viewport with initial-scale only
+
 HTML5 Boilerplate is a professional front-end template for building fast,
 robust, and adaptable web apps or sites.
 
