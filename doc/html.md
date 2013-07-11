@@ -91,6 +91,8 @@ Media Queries - The Complete Idiot's Guide"). You can find out more in [the
 Apple developer docs](http://j.mp/mobileviewport). HTML5 Boilerplate comes with
 a simple setup that strikes a good balance for general use cases.
 
+>> I'd rather keep only initial-scale to have a correct width in landscape mode with iOs
+
 ```html
 <meta name="viewport" content="width=device-width, initial-scale=1">
 ```
